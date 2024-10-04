@@ -1,5 +1,6 @@
 # MathWorks Minidrone Competition 2024 - India
 
+
 ### Competition: India 2024 | Indian Institute of Science, Bangalore  
 This project is a submission for the **MathWorks Minidrone Competition 2024**, where we developed an **autonomous minidrone line follower** using **Model-Based Design** techniques. The goal of the competition was to build a simulation-based solution that could be extended to a real-world application.
 
@@ -11,6 +12,9 @@ In this project, we focused on **Round 1: Simulation**, which involved developin
 - **Control Systems**
 
 Our approach centered around the use of the **Bresenham's Line Algorithm** for efficient path drawing and image processing.
+## Simulation Environment 
+
+![path](https://github.com/user-attachments/assets/d2693442-3106-4a62-9f04-9982e61eee7e)
 
 Line following algorithm based on [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm) and circle detection with brute force technique.
 
